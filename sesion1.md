@@ -48,13 +48,13 @@
 
 ### ¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?
 
-        Las estructuras de control de flujo son el conjunto de reglas que permiten controlar el flujo de las acciones de un algoritmo o programa. Y se pueden clasificar en SECUENCIALES, CONDICIONALES e INTERACTIVAS.
+    Las estructuras de control de flujo son el conjunto de reglas que permiten controlar el flujo de las acciones de un algoritmo o programa. Y se pueden clasificar en SECUENCIALES, CONDICIONALES e INTERACTIVAS.
 
-     - Estructura secuencial: Están compuestas por un    número definido de acciones que se ubican en un orden específico y se suceden una tras otra.
+    - Estructura secuencial: Están compuestas por un    número definido de acciones que se ubican en un orden específico y se suceden una tras otra.
 
-        - Estructura de control condicional: Es la parte del algoritmo donde se debe hacer una pregunta donde pueden haber una o más opciones disponibles para continuar. Dependiendo de su respuesta que puede ser verdadera o falsa, el algoritmo seguirá ciertas acciones e ignorará otras. Las estructuras de control condicional pueden ser SIMPLES, DOBLES o MÚLTIPLES. 
+    - Estructura de control condicional: Es la parte del algoritmo donde se debe hacer una pregunta donde pueden haber una o más opciones disponibles para continuar. Dependiendo de su respuesta que puede ser verdadera o falsa, el algoritmo seguirá ciertas acciones e ignorará otras. Las estructuras de control condicional pueden ser SIMPLES, DOBLES o MÚLTIPLES. 
 
-        - Estructura de control interactiva: Son útiles cuando la solución de un problema requiere que se ejecute repetidamente un determinado conjunto de acciones. El número de veces que se debe repetir dicha secuencia de acciones puede ser fijo o puede variar dependiendo de algún dato o condicional a evaluar en el algoritmo. 
+    - Estructura de control interactiva: Son útiles cuando la solución de un problema requiere que se ejecute repetidamente un determinado conjunto de acciones. El número de veces que se debe repetir dicha secuencia de acciones puede ser fijo o puede variar dependiendo de algún dato o condicional a evaluar en el algoritmo. 
 
 
 ### ¿Qué es una variable y para qué se utiliza en la programación?
@@ -62,7 +62,12 @@
     Una variable son espacios reservados en la memoria de un computador que se utilizan para almacenar datos temporales o permanentes. El valor almacenado en una variable puede cambiar su valor durante la ejecución del programa. Pueden almacenar datos numéricos, texto, booleanos
 
 ### ¿Cómo se utilizan las funciones en la programación?
+
+    Las funciones empaquetan y aíslan del resto del programa una serie de variables e instrucciones de código que realizan alguna tarea específica (es como un miniprograma que cuenta con entradas, procesos y salida). Solo se ejecutan si son llamadas desde el código principal y tras procesar sus instrucciones, devuelven un resultado a esa parte del código principal que la invocó.
+
 ### ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
+
+    La programación orientada a objetos es un modelo de programación en el que el diseño de software se organiza alrededor de datos u objetos, en vez de usar funciones y lógica. Se enfoca en los objetos que los programadores necesitan manipular, en lugar de centrarse en la lógica necesaria para esa manipulación. Se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos.
 
 
 
