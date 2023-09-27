@@ -161,4 +161,4 @@ public static void advNumero() {
 Cuando el usurario elije la opción 2., se ejecuta el método advNumero(), en donde se le muestra al usuario un color, y con éste, el usuario deberá digitar el valor entre '0 y 9'equivalente al color.
 
 Si el usuario acierta, se mostrará un mensaje de felicitación, de lo contrario, se mostrara un mensaje indicando que la respuesta no fue la correcta.
-
+ 
