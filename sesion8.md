@@ -129,5 +129,43 @@ public class Actividad4 {
 ### 5. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
 
 ```java
+package com.mycompany.actividad5;
+
+import java.util.*;
+
+/**
+ *
+ * @author 3D AUTOMATIZACION
+ */
+// Escribir un método que reciba una cadena de texto como parámetro y devuelva una cadena con todas las palabras en orden alfabético
+public class Actividad5 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Ingrese una cadena de caracteres: ");
+        String cadena = sc.nextLine();
+        
+        //ordenador(cadena);
+        String resultado = ordenador(cadena);
+       
+        System.out.println("" + resultado);
+    }
+    
+    //Funcion entera que recibe un String y devuleve el número de palabras
+    public static String ordenador(String cadena) {
+       char[] caracteres = cadena.toCharArray() ;
+              
+        Arrays.sort(caracteres);
+                     
+        //return caracteres;
+       
+       cadena.split(cadena);
+       
+       String temporal = Arrays.toString(caracteres);
+           
+              return temporal;
+
+    }
+}
 
 ```
